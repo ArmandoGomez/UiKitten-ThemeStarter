@@ -1,2 +1,2 @@
 # UiKittenApp
-A React Native UI Kitten - https://github.com/akveo/react-native-ui-kitten
+A React Native UI Kitten Clean-Quick Starter - https://github.com/akveo/react-native-ui-kitten
